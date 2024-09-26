@@ -1,0 +1,1 @@
+The project focuses on automating the testing process for an E-commerce website using Selenium WebDriver in a Maven-based environment. The objective is to ensure the quality and functionality of the website's critical features, including user registration, login, product search, adding items to the cart, and checkout process.
